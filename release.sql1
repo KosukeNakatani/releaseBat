@@ -1,0 +1,14 @@
+show user 
+
+--ファイル実行する時にはここに
+
+@"D:\YYYYMMDD\sampleSelect.sql"
+
+--ファイル実行する時にはここに
+
+--実行sqlをべた書きの時はここに
+
+select * from dual;
+
+--実行sqlをべた書きの時はここに
+exit;
